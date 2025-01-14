@@ -1,4 +1,4 @@
-# **HTML Guide for 4th Year Secondary Education**
+# **HTML Guide 1**
 
 ## **What is HTML?**
 
